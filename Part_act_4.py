@@ -28,4 +28,20 @@ die_6side = die()
 for i in range(10):
     die_6side.roll_die()
 
-    
+#Create the 10 sided dice
+print("\nRolling of a 10-sided die 10 times:")
+die_10sides = die(10)
+
+#Launch of the 10 sided die
+ 
+for i in range(10):
+    die_10sides.roll_die()
+
+#Create the 20 sided dice
+print("\nRolling of a 6-sided die 10 times:")
+die_20sides = die(20)
+
+#Launch of the 20 sided die
+ 
+for i in range(10):
+    die_20sides.roll_die()    
