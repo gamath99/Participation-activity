@@ -38,7 +38,7 @@ for i in range(10):
     die_10sides.roll_die()
 
 #Create the 20 sided dice
-print("\nRolling of a 6-sided die 10 times:")
+print("\nRolling of a 20-sided die 10 times:")
 die_20sides = die(20)
 
 #Launch of the 20 sided die
